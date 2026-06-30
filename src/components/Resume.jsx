@@ -10,7 +10,7 @@ function Resume() {
                 <p>📍 Nairobi, Kenya</p>
                 <p>📞 +254 757 080 794</p>
                 <p>✉️ <a href="mailto:edwinkhayombe44@gmail.com">edwinkhayombe44@gmail.com</a></p>
-                <p>🔗 LinkedIn: <a href="https://www.linkedin.com/in/edwin-khayombe" target="_blank" rel="noopener noreferrer">https://www.linkedin.com/in/edwin-khayombe</a></p>
+                <p>🔗 LinkedIn: <a href="https://www.linkedin.com/in/edwin-khayombe-1589b4394?utm_source=share_via&utm_content=profile&utm_medium=member_android" target="_blank" rel="noopener noreferrer">https://www.linkedin.com/in/edwin-khayombe</a></p>
                 <p>💻 GitHub: <a href="https://github.com/Niko-Khayombe" target="_blank" rel="noopener noreferrer">https://github.com/Niko-Khayombe</a></p>
                 <hr />
                 <h3>PROFESSIONAL SUMMARY</h3>
