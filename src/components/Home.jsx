@@ -8,7 +8,7 @@ function Home() {
                     I design and develop responsive, accessible, and modern web applications using HTML, CSS, JavaScript, and React.
                 </p>
                 <div className="hero-actions">
-                    <a className="button" href="https://landing-page-rho-beige-19.vercel.app/" target="_blank" rel="noopener noreferrer">
+                    <a className="button" href="#projects">
                         View My Work
                     </a>
                 </div>
